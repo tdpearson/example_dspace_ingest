@@ -1,0 +1,1 @@
+cc_token = ''  # Add cybercommons token
